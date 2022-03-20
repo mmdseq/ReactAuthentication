@@ -1,0 +1,15 @@
+.starting {
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.starting h1 {
+  font-size: 5rem;
+}
+
+@media(max-width:500px){
+  .starting h1 {
+    font-size: 2rem;
+  }
+ 
+}
